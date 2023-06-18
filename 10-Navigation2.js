@@ -1,4 +1,7 @@
 // Instalar dependencias
+// npm install @react-navigation/native @react-navigation/native-stack
+// npx expo install react-native-screens react-native-safe-area-context
+
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
